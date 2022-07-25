@@ -55,7 +55,7 @@
             </div>
             <div class="ci-text">
               <span>Phone:</span>
-              <p>0857-1234-1234</p>
+              <p>0857-1234-0056</p>
             </div>
           </div>
           <div class="cw-item">
